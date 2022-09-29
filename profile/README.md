@@ -18,22 +18,22 @@ This project is my personal project to track #100DaysOfCode on frontend web deve
 ### Day 1 - 10
 Learn fundamental of HTML, CSS and Javascript
 
-Day 1  : ![Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+Day 1  : [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
-Day 2  : ![Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+Day 2  : [Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
-Day 3  : ![QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+Day 3  : [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-Day 4  : ![NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+Day 4  : [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
-Day 5  : ![Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+Day 5  : [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
-Day 6  : ![Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+Day 6  : [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
-Day 7  : ![3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+Day 7  : [3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
-Day 8  : ![Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+Day 8  : [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
-Day 9  : ![FAQ accordion card](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
+Day 9  : [FAQ accordion card](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
 
-Day 10 : ![Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
+Day 10 : [Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
