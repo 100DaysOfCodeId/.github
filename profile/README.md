@@ -18,7 +18,7 @@ This project is my personal project to track #100DaysOfCode on frontend web deve
 ### Day 1 - 10
 Learn fundamental of HTML, CSS and Javascript by working on real project from [Frontend Mentor](https://www.frontendmentor.io/)
 
-Day 1  : [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+Day 1  : [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) [Show](https://6335bd57a90a49005880359e--willowy-speculoos-dbff4d.netlify.app/) :heavy_check_mark: 
 
 Day 2  : [Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
