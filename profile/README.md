@@ -13,3 +13,17 @@ This project is my personal project to track #100DaysOfCode on frontend web deve
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+## Table of Contents
+### Day 1 - 10
+Learn fundamental of HTML, CSS and Javascript
+Day 1  : ![Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+Day 2  : https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
+Day 3  : https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+Day 4  : https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
+Day 5  : https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj 
+Day 6  : https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
+Day 7  : https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
+Day 8  : https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
+Day 9  : https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam
+Day 10 : https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
