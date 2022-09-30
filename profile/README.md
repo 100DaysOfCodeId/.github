@@ -15,7 +15,7 @@ This project is my personal project to track #100DaysOfCode on frontend web deve
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ## Table of Contents
-### Day 1 - 10
+### Day 1 - 26
 Learn fundamental of HTML, CSS and Javascript by working on real project from [Frontend Mentor](https://www.frontendmentor.io/)
 
 Day 1   : [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) -> [Show Live](https://6335bd57a90a49005880359e--willowy-speculoos-dbff4d.netlify.app/) :heavy_check_mark: 
