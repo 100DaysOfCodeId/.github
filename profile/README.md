@@ -24,7 +24,7 @@ Day 2   : Learn Fundamental
 
 Day 3   : Learn Fundamental
 
-Day 4   : [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+Day 4   : [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) -> [Show Live](https://unique-stroopwafel-9f11b9.netlify.app/) :heavy_check_mark: 
 
 Day 5   : Learn Fundamental
 
